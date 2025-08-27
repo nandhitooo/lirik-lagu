@@ -2,15 +2,15 @@ import time
 import sys
 
 lyrics = [
-    ("Cerita kita tak jauh berbeda", 0.20),
-    ("Got beat down by the world", 0.12),
+    ("Ceeeeeeeeriiiiiita kita tak jauh berbeda", 0.15),
+    ("Got beat down by the world", 0.08),
     ("Sometimes I wanna fold", 0.08),
     ("Namun suratmu kan ku ceritakan ke anak-anakku nanti", 0.06),
     ("Bahwa aku pernah dicintai", 0.10),
-    ("With everything u are", 0.05),
+    ("With everything u are", 0.09),
 ]
 
-delay = [7, 3, 2.1, 4.7, 5.5]
+delay = [7, 3, 2.45, 4.7, 5.5]
 
 def animate_text(text, char_delay):
     for char in text:
